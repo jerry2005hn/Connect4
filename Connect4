@@ -1,7 +1,4 @@
-"""
-Name: Minh Tuan Nguyen
-UPI: 142905798
-Comment: This program is the Connect 4 game between the player and an AI"""
+
 import math
 class GameBoard:
     def __init__(self, size):
